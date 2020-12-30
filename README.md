@@ -90,4 +90,5 @@ Currently into React Native and Go.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build your first Discord GIF BOT and deploy](https://medium.com/@shelcia/build-your-first-discord-gif-bot-and-deploy-2cc917888113?source=rss-dd838a6f81c8------2)
 <!-- BLOG-POST-LIST:END -->
