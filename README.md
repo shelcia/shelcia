@@ -90,6 +90,6 @@ Currently into React Native and Go.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [NodeJs with JWT Authentication](https://medium.com/@shelcia/nodejs-with-jwt-authentication-feb961763541?source=rss-dd838a6f81c8------2)
+- [NodeJs with JWT Authentication](https://medium.com/swlh/nodejs-with-jwt-authentication-feb961763541?source=rss-dd838a6f81c8------2)
 - [Build your first Discord GIF BOT and deploy](https://medium.com/@shelcia/build-your-first-discord-gif-bot-and-deploy-2cc917888113?source=rss-dd838a6f81c8------2)
 <!-- BLOG-POST-LIST:END -->
