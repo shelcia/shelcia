@@ -63,6 +63,7 @@ Currently into React Native and Go.
 ![Postman](https://img.shields.io/badge/postman-FF8300?style=for-the-badge&logoColor=white&logo=postman)
 ![Firebase](https://img.shields.io/badge/firebase-FFBA01?style=for-the-badge&logoColor=white&logo=firebase)
 ![Github](https://img.shields.io/badge/github-8B001B?style=for-the-badge&logoColor=white&logo=github)
+![Docker](https://img.shields.io/badge/docker-blue?style=for-the-badge&logoColor=white&logo=docker)
 
 <br></br>
 
