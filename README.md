@@ -93,4 +93,5 @@ Currently into React Native and Go.
 <!-- BLOG-POST-LIST:START -->
 - [Send Emails from your NodeJs App with Node mailer](https://medium.com/swlh/send-emails-from-your-nodejs-app-with-node-mailer-6859aa30d72f?source=rss-dd838a6f81c8------2)
 - [NodeJs With JWT Authentication](https://medium.com/swlh/nodejs-with-jwt-authentication-feb961763541?source=rss-dd838a6f81c8------2)
+- [Build Your First Discord GIF BOT and Deploy](https://medium.com/swlh/build-your-first-discord-gif-bot-and-deploy-2cc917888113?source=rss-dd838a6f81c8------2)
 <!-- BLOG-POST-LIST:END -->
