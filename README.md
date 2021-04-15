@@ -1,4 +1,4 @@
-[![Header](./github_header.png)](https://shelcia-portfolio.netlify.app/)
+[![Header](./shelcia_david.gif)](https://shelcia-portfolio.netlify.app/)
 
 <div align="center">
 
