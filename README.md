@@ -84,7 +84,7 @@ Currently into React Native and Go.
 
 <div align="center">
 
-[![GitHub Streak](https://github-profile-trophy.vercel.app/?username=shelcia&margin-w=15&theme=alduin&column=3)](https://github.com/shelcia)
+[![GitHub Streak](https://github-profile-trophy.vercel.app/?username=shelcia&margin-w=15&theme=darkhub&no-frame=true&no-bg=true)](https://github.com/shelcia)
 
 </div>
 
