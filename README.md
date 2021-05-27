@@ -78,8 +78,8 @@ Currently into React Native and Go.
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shelcia&theme=highcontrast)](https://github.com/shelcia)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shelcia&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
+    
 </div>
 
 <div align="center">
