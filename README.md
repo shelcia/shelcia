@@ -70,10 +70,10 @@ Currently into React Native and Go.
 # Github Stats 
 
 <a href="https://github.com/shelcia">
-    <img src="https://github-readme-stats.vercel.app/api?username=shelcia&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true" width="51%" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shelcia&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true" width="51%" />
 </a>
 <a href="https://github.com/shelcia">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shelcia&theme=chartreuse-dark&layout=compact&hide_border=true" width="43%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shelcia&theme=chartreuse-dark&layout=compact&hide_border=true" width="43%" />
 </a>
 
 <div align="center">
