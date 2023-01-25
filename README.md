@@ -1,8 +1,9 @@
-[![Header](./shelcia_david.gif)](https://shelcia-portfolio.netlify.app/)
+[![Header](./shelcia_david.gif)](https://shelcia-dev.me/)
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/twitter/follow/shelciadavid?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/shelciadavid)
+<!-- [![Twitter](https://img.shields.io/twitter/follow/shelciadavid?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/shelciadavid) -->
+[![Twitter](https://img.shields.io/badge/Follow%2019-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shelciadavid)
 [![Follow me on Github](https://img.shields.io/github/followers/shelcia?color=236ad3&style=for-the-badge&logo=github&label=Follow)](https://github.com/shelcia)
 
 [![Github views](https://komarev.com/ghpvc/?username=shelcia&style=flat-square&color=green)](https://github.com/shelcia)
@@ -28,7 +29,7 @@ Currently into React Native and Go.
 [![Hackerearth](https://img.shields.io/badge/hackerrank-09C000?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/shelcia)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shelcia/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shelciadavid)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msm17b011@iiitdm.ac.in)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shelciamongodb@gmail.com)
 
 <br></br>
 
