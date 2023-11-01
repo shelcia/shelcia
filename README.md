@@ -1,4 +1,4 @@
-[![Header](./shelcia_david.gif)](https://shelcia-dev.me/)
+[![Header](./github.png)](https://shelcia-dev.me/)
 
 <div align="center">
 
