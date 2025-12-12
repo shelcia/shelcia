@@ -70,24 +70,26 @@ Currently into React Native and Go.
 
 # Github Stats 
 
-<a href="https://github.com/shelcia">
+[![Shelcia's GitHub stats](https://github-readme-stats.vercel.app/api?username=shelcia)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- <a href="https://github.com/shelcia">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shelcia&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true" width="51%" />
 </a>
 <a href="https://github.com/shelcia">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shelcia&theme=chartreuse-dark&layout=compact&hide_border=true" width="43%" />
-</a>
+</a> -->
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shelcia&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
-    
+[![GitHub Streak](https://streak-stats.demolab.com?user=shelcia&theme=one-dark-pro&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 </div>
 
-<div align="center">
+<!-- <div align="center">
 
 [![GitHub Streak](https://github-profile-trophy.vercel.app/?username=shelcia&margin-w=15&theme=darkhub&no-frame=true&no-bg=true)](https://github.com/shelcia)
 
-</div>
+</div> -->
 
 
 # Blog posts
