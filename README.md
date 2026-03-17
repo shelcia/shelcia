@@ -1,18 +1,14 @@
-[![Header](./github.png)](https://shelcia-dev.me/)
+# Hi, I’m Shelcia
 
-<div align="center">
+Frontend-focused engineer building production systems with **React, TypeScript, and Go**.
+
+<div>
 
 [![Twitter](https://img.shields.io/badge/Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shelciadavid)
 [![GitHub followers](https://img.shields.io/github/followers/shelcia?style=for-the-badge&logo=github)](https://github.com/shelcia)
 [![Profile Views](https://komarev.com/ghpvc/?username=shelcia&style=for-the-badge)](https://github.com/shelcia)
 
 </div>
-
----
-
-# Hi, I’m Shelcia
-
-Frontend-focused engineer building production systems with **React, TypeScript, and Go**.
 
 I care deeply about:
 - Scalable frontend architecture
@@ -23,8 +19,6 @@ I care deeply about:
 
 Currently building tracking systems and internal tools at scale.
 
----
-
 ## What I Do
 
 - Design systems from Figma → Production
@@ -33,8 +27,6 @@ Currently building tracking systems and internal tools at scale.
 - Build backend services in Go & Node
 - Work across AWS (S3, infra, CI/CD)
 - Think in systems, not components
-
----
 
 ## Tech I Actually Use
 
@@ -47,29 +39,17 @@ Go · Node.js · Express · REST · GraphQL · MongoDB
 ### Infra
 AWS (S3, CI/CD) · Docker · Terraform · GitHub Actions
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=shelcia&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## Writing
 
-- Send Emails from your NodeJs App with Node mailer  
-- NodeJs With JWT Authentication  
-- Build Your First Discord GIF BOT and Deploy  
+I write about frontend architecture, performance, and real-world engineering problems.
 
-(More on Medium → https://medium.com/@shelcia)
+- [Migrating a Legacy React App to TypeScript](https://medium.com/@shelcia/how-i-migrated-my-5-year-old-react-project-to-typescript-without-losing-my-mind)  
+- [Migrating from Create React App to Vite](https://medium.com/@shelcia/how-to-migrate-from-create-react-app-cra-to-vite-quickly)  
+- [Responsive Design in React with JS Media Queries](https://medium.com/@shelcia/unlocking-responsive-design-in-reactjs-with-javascript-powered-media-queries)  
 
----
+→ [More on Medium](https://medium.com/@shelcia)
 
-## 📫 Connect
+## Connect
 
 [LinkedIn](https://www.linkedin.com/in/shelcia/)  
 [Twitter](https://twitter.com/shelciadavid)  
